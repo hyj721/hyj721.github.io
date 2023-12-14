@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-70bc2959","path":"/algorithm/","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{},"readingTime":{"minutes":0.05,"words":16},"filePathRelative":"algorithm/README.md","excerpt":"<div class=\\"hint-container info\\">\\n<p class=\\"hint-container-title\\">Info</p>\\n<p>总结了一些学习过程中写过的题目</p>\\n</div>\\n"}');export{t as data};
